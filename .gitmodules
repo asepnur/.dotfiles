@@ -3,4 +3,4 @@
 	url = https://github.com/tpope/vim-scriptease
 [submodule ".vim/pack/bundle/start/.vim/pack/bundle/start/racer"]
 	path = .vim/pack/bundle/start/.vim/pack/bundle/start/racer
-	url = https://github.com/racer-rust/racer
+	url = https://github.com/racer-rust/racer.git
