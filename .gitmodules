@@ -7,3 +7,96 @@
 [submodule ".vim/pack/bundle/start/racer"]
 	path = .vim/pack/bundle/start/racer
 	url = https://github.com/racer-rust/racer.git
+[submodule "workspace/rust/coc-git"]
+	path = workspace/rust/coc-git
+	url = https://github.com/neoclide/coc-git
+[submodule ".vim/pack/bundle/start/coc-git"]
+	path = .vim/pack/bundle/start/coc-git
+	url = https://github.com/neoclide/coc-git
+[submodule ".vim/pack/bundle/start/coc.nvim"]
+	path = .vim/pack/bundle/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule ".vim/pack/bundle/start/fugitive"]
+	path = .vim/pack/bundle/start/fugitive
+	url = https://tpope.io/vim/fugitive.git
+[submodule ".vim/pack/bundle/start/fzf"]
+	path = .vim/pack/bundle/start/fzf
+	url = git@github.com:junegunn/fzf
+[submodule ".vim/pack/bundle/start/fzf.vim"]
+	path = .vim/pack/bundle/start/fzf.vim
+	url = git@github.com:junegunn/fzf.vim
+[submodule ".vim/pack/bundle/start/git-blame.vim"]
+	path = .vim/pack/bundle/start/git-blame.vim
+	url = git@github.com:zivyangll/git-blame.vim
+[submodule ".vim/pack/bundle/start/git-messenger.vim"]
+	path = .vim/pack/bundle/start/git-messenger.vim
+	url = git@github.com:rhysd/git-messenger.vim
+[submodule ".vim/pack/bundle/start/gotests"]
+	path = .vim/pack/bundle/start/gotests
+	url = git@github.com:cweill/gotests
+[submodule ".vim/pack/bundle/start/nerdtree"]
+	path = .vim/pack/bundle/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule ".vim/pack/bundle/start/oceanic-next"]
+	path = .vim/pack/bundle/start/oceanic-next
+	url = git@github.com:mhartington/oceanic-next
+[submodule ".vim/pack/bundle/start/palenight.vim"]
+	path = .vim/pack/bundle/start/palenight.vim
+	url = git@github.com:drewtempelmeyer/palenight.vim
+[submodule ".vim/pack/bundle/start/rust.vim"]
+	path = .vim/pack/bundle/start/rust.vim
+	url = git@github.com:rust-lang/rust.vim
+[submodule ".vim/pack/bundle/start/vim-airline"]
+	path = .vim/pack/bundle/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline
+[submodule ".vim/pack/bundle/start/vim-airline-themes"]
+	path = .vim/pack/bundle/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes
+[submodule ".vim/pack/bundle/start/vim-buffergator"]
+	path = .vim/pack/bundle/start/vim-buffergator
+	url = git@github.com:jeetsukumaran/vim-buffergator
+[submodule ".vim/pack/bundle/start/vim-colors-solarized"]
+	path = .vim/pack/bundle/start/vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized
+[submodule ".vim/pack/bundle/start/vim-dispatch"]
+	path = .vim/pack/bundle/start/vim-dispatch
+	url = git@github.com:tpope/vim-dispatch.git
+[submodule ".vim/pack/bundle/start/vim-dispatch-neovim"]
+	path = .vim/pack/bundle/start/vim-dispatch-neovim
+	url = git@github.com:radenling/vim-dispatch-neovim.git
+[submodule ".vim/pack/bundle/start/vim-enmasse"]
+	path = .vim/pack/bundle/start/vim-enmasse
+	url = git@github.com:Olical/vim-enmasse
+[submodule ".vim/pack/bundle/start/vim-gitgutter"]
+	path = .vim/pack/bundle/start/vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter
+[submodule ".vim/pack/bundle/start/vim-go"]
+	path = .vim/pack/bundle/start/vim-go
+	url = git@github.com:fatih/vim-go
+[submodule ".vim/pack/bundle/start/vim-goimports"]
+	path = .vim/pack/bundle/start/vim-goimports
+	url = git@github.com:mattn/vim-goimports
+[submodule ".vim/pack/bundle/start/vim-nerdtree-tabs"]
+	path = .vim/pack/bundle/start/vim-nerdtree-tabs
+	url = git@github.com:jistr/vim-nerdtree-tabs
+[submodule ".vim/pack/bundle/start/vim-obsession"]
+	path = .vim/pack/bundle/start/vim-obsession
+	url = git@github.com:tpope/vim-obsession
+[submodule ".vim/pack/bundle/start/vim-projectionist"]
+	path = .vim/pack/bundle/start/vim-projectionist
+	url = git@github.com:tpope/vim-projectionist.git
+[submodule ".vim/pack/bundle/start/vim-protobuf"]
+	path = .vim/pack/bundle/start/vim-protobuf
+	url = git@github.com:uarun/vim-protobuf
+[submodule ".vim/pack/bundle/start/vim-racer"]
+	path = .vim/pack/bundle/start/vim-racer
+	url = git@github.com:racer-rust/vim-racer
+[submodule ".vim/pack/bundle/start/vim-rest-console"]
+	path = .vim/pack/bundle/start/vim-rest-console
+	url = git@github.com:diepm/vim-rest-console.git
+[submodule ".vim/pack/bundle/start/vim-unimpaired"]
+	path = .vim/pack/bundle/start/vim-unimpaired
+	url = git@github.com:tpope/vim-unimpaired.git
+[submodule ".vim/pack/bundle/start/vista.vim"]
+	path = .vim/pack/bundle/start/vista.vim
+	url = git@github.com:liuchengxu/vista.vim.git
