@@ -10,7 +10,7 @@ this is personal general configuration file
 this installation is using bare repository method
 1. create `dotfile` alias
 ```
-alias dotfile='/usr/bin/git --git-dir=$HOME/.dotfile/ --work-tree=$HOME'
+alias dotfile='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 ```
 2. clone repository
 ```
