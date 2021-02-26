@@ -13,9 +13,9 @@ alias rsid='rs "$@" -c id'
 alias rsvn='rs "$@" -c vn'
 alias rsth='rs "$@" -c th'
 
-alias rpid='rs "$@" -c id'
-alias rpvn='rs "$@" -c id'
-alias rpth='rs "$@" -c id'
+alias rpid='rp "$@" -c id'
+alias rpvn='rs "$@" -c vn'
+alias rpth='rs "$@" -c th'
 
 # rogu config staging
 alias rscd='rs config diff'
@@ -74,7 +74,8 @@ alias rpdh='rp deployment-history'
 
 #rogu run
 alias rsidrun='r run -e staging -c id --'
-alias rpidrun='r run -e production -c id --'
+alias rpvnrun='r run -e production -c vn --'
+alias rpthrun='r run -e production -c th --'
 
 # rogu loadtest, enforce use json format
 alias rla='r loadtest attack --format=json'
